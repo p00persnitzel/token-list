@@ -22749,3 +22749,16 @@
         "website": "https://dockcoin.me/"
       }
 }
+
+{
+      "chainId": 101,
+      "address": "GB1NzuybHpomzntPQVEyFnrFRmuV3PHZkc8FvzA7F2LU",
+      "symbol": "BULLA",
+      "name": "Hasbulla Inu",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GB1NzuybHpomzntPQVEyFnrFRmuV3PHZkc8FvzA7F2LU/logo.png",
+      "tags": [
+        "social-token",
+        "bulla"
+      ]
+    },
